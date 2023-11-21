@@ -1,5 +1,5 @@
 - 👋 Hey, This is Bhavya Damani
-- 👀 I can help you in things related to D365 CE
+- 👀 I can help you in things related to Power Platform and D365
 - 📫 Drop a Hello at bhavyadamani@hotmail.com
 
 <!---
